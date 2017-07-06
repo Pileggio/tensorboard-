@@ -25,3 +25,5 @@ Visualize it with this command in terminal after training.
 ## Credits
 
 The credits for this code go to [mamcgrath](https://github.com/mamcgrath/TensorBoard-TF-Dev-Summit-Tutorial/blob/master/mnist.py). I've merely created a wrapper to get people started. 
+
+#report
